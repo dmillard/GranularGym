@@ -7,6 +7,21 @@ interacting (one-way) with rigid bodies of arbitrary geometry.
 **Note (9 June 2023): Currently this repository contains the core engine code,
 examples are being cleaned and will be released soon.**
 
+## Licensing
+
+GranularGym is licensed under the GPL-3.0 license, see LICENSE.txt for details.
+
+Additionally, the United States National Aeronautics and Space Administration
+(NASA) and the United State Government are licensed this software (GranularGym)
+under the MIT license for any purpose.
+
+If you are interested in another licensing scheme for any purpose, please
+contact the authors.
+
+## Acknowledgement
+
+The development of GranularGym has been supported by a NASA Space Technology
+Research Fellowship, grant number 80NSSC19K1182.
 
 ## Citation
 
