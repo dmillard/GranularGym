@@ -4,15 +4,15 @@ High performance simulation for robotic tasks with granular materials.
 GranularGym can reach realtime simulation of hundreds of thousands of particles
 interacting (one-way) with rigid bodies of arbitrary geometry.
 
-**Note (9 June 2023): Currently this repository contains the core engine code,
-examples are being cleaned and will be released soon.**
+This repository contains the core engine code, example usages are given in the
+referenced paper below.
 
 ## Licensing
 
 GranularGym is licensed under the GPL-3.0 license, see LICENSE.txt for details.
 
 Additionally, the United States National Aeronautics and Space Administration
-(NASA) and the United State Government are licensed this software (GranularGym)
+(NASA) and the United States Government are licensed this software (GranularGym)
 under the MIT license for any purpose.
 
 If you are interested in another licensing scheme for any purpose, please
